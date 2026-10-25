@@ -1,16 +1,23 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:050505,50:0B2519,100:00FF9C&text=MOHSIN%20AFROZ&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=12&descAlignY=65&animation=fadeIn" width="100%" alt="Mohsin Afroz"/>
+# 👾 Md Mohsin Afroz
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=500&lines=Building+AtomAI.;Code.+Create.+Iterate.;Turning+ideas+into+working+products." alt="Developer introduction"/>
+### `FULL STACK DEVELOPER` · 🇮🇳 INDIA
+
+<img src="https://img.shields.io/badge/BUILDING-AtomAI-00FF9C?style=flat-square&labelColor=050505" alt="Building AtomAI"/>
 
 <br/>
 
-<a href="https://github.com/ermohsin-afroz"><img src="https://img.shields.io/badge/GitHub-050505?style=flat-square&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
-<a href="mailto:mohsinafroz90@gmail.com"><img src="https://img.shields.io/badge/Email-050505?style=flat-square&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
-<a href="https://instagram.com/blade_786"><img src="https://img.shields.io/badge/Instagram-050505?style=flat-square&logo=instagram&logoColor=00FF9C" alt="Instagram"/></a>
+*I turn ideas into products through code, creativity, and continuous learning.*
+
+<br/>
+
+<a href="mailto:mohsinafroz90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=flat-square&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
+<a href="https://instagram.com/blade_786"><img src="https://img.shields.io/badge/INSTAGRAM-050505?style=flat-square&logo=instagram&logoColor=00FF9C" alt="Instagram"/></a>
+<a href="https://www.youtube.com/c/erfactist"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=flat-square&logo=youtube&logoColor=00FF9C" alt="YouTube"/></a>
+<a href="https://github.com/ermohsin-afroz"><img src="https://img.shields.io/badge/GITHUB-050505?style=flat-square&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
 
 </div>
 
@@ -19,19 +26,22 @@
 ## `01` / WHO AM I?
 
 ```text
-NAME      → Md Mohsin Afroz
-ROLE      → Full Stack Developer
-LOCATION  → India 🇮🇳
-BUILDING  → AtomAI
-MINDSET   → Learn fast. Build better.
+┌──────────────────────────────────────┐
+│  > whoami                            │
+│                                      │
+│  Name      : Md Mohsin Afroz         │
+│  Role      : Full Stack Developer    │
+│  Location  : India                   │
+│  Project   : AtomAI                  │
+│  Focus     : Web Development + AI    │
+│  Status    : Always Learning         │
+└──────────────────────────────────────┘
 ```
 
-I enjoy turning ideas into useful digital products, working across the stack, and exploring how AI can make software more powerful.
-
-- Building **AtomAI**
-- Exploring modern web technologies and AI-powered applications
-- Improving my software architecture and development skills
-- Open to interesting projects and collaborations
+- ⚡ Building modern applications with clean, practical solutions.
+- 🧠 Exploring AI-powered products and full stack development.
+- 🛠️ Improving my development and problem-solving skills.
+- 🤝 Open to interesting projects and collaborations.
 
 ---
 
@@ -46,7 +56,7 @@ I enjoy turning ideas into useful digital products, working across the stack, an
 **FRONTEND**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" alt="Frontend"/>
 </p>
 
 **BACKEND & DATABASES**
@@ -58,7 +68,7 @@ I enjoy turning ideas into useful digital products, working across the stack, an
 **INFRASTRUCTURE & TOOLS**
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,postman&theme=dark" alt="Infrastructure and developer tools"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,postman&theme=dark" alt="Infrastructure and tools"/>
 </p>
 
 ---
@@ -85,16 +95,8 @@ I enjoy turning ideas into useful digital products, working across the stack, an
 
 <div align="center">
 
-<sub>LET'S BUILD SOMETHING GREAT.</sub>
+### `LET'S BUILD SOMETHING GREAT.`
 
-<br/><br/>
-
-<a href="mailto:mohsinafroz90@gmail.com"><img src="https://img.shields.io/badge/CONTACT-00FF9C?style=flat-square&logo=gmail&logoColor=050505" alt="Contact"/></a>
-<a href="https://instagram.com/blade_786"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=00FF9C" alt="Instagram"/></a>
-<a href="https://www.youtube.com/c/erfactist"><img src="https://img.shields.io/badge/YOUTUBE-111111?style=flat-square&logo=youtube&logoColor=00FF9C" alt="YouTube"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=65&color=0:00FF9C,100:050505&section=footer" width="100%" alt="Footer"/>
+<sub>CODE WITH PURPOSE · KEEP BUILDING · NEVER STOP LEARNING</sub>
 
 </div>
