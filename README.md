@@ -1,44 +1,45 @@
+<!-- ==================== PROFILE BANNER ==================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:050505,50:071F17,100:00FF9C&text=MD%20MOHSIN%20AFROZ&fontColor=FFFFFF&fontSize=38&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=14&descAlignY=70&descColor=E6E6E6" width="100%" alt="Profile Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:151515,50:123D2B,100:00FF9C&text=Md%20Mohsin%20Afroz&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=15&descAlignY=65&descColor=E6E6E6" width="100%" alt="Md Mohsin Afroz Profile Banner"/>
 
-<br/>
-
-<a href="https://github.com/ermohsin-afroz">
-  <img src="https://img.shields.io/badge/GitHub-ermohsin--afroz-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" alt="GitHub"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-INDIA-00FF9C?style=for-the-badge&labelColor=050505" alt="Location"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-WEB%20%2B%20AI-00FF9C?style=for-the-badge&labelColor=050505" alt="Focus"/>
-
-<br/><br/>
-
-### `> WHO AM I?`
-
-**Full Stack Developer building modern web experiences and exploring AI-powered products.**
-
-I enjoy turning ideas into practical applications, solving problems, and learning technologies that help me build better software.
-
-<br/>
-
-`⚡ BUILD` &nbsp; `🧠 EXPLORE` &nbsp; `🛠️ IMPROVE` &nbsp; `🤝 COLLABORATE`
+<p>
+  <a href="https://github.com/ermohsin-afroz">
+    <img src="https://img.shields.io/badge/GitHub-Profile-00FF9C?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/blade__786?obrf=bXZmZmM3Y3h1dm00">
+    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=161B22" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-mohsin-afroz-1580522b4">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/@erfactist?si=ozdn620dA8MUw83M">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=161B22" alt="YouTube"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
+
 ## 👨‍💻 About Me
 
-- 🚀 **Current Project:** AtomAI
-- 💻 **Role:** Full Stack Developer
-- 🧠 **Interests:** Web Development, AI and modern applications
-- 📚 **Mindset:** Always learning and improving
-- 🤝 **Open To:** Interesting projects and collaborations
+Hi! I'm **Md Mohsin Afroz**, a Full Stack Developer from India interested in building modern web applications and exploring AI-powered solutions.
+
+- 🚀 Currently working on **AtomAI**
+- 💻 Interested in **Full Stack Development**
+- 🧠 Exploring **Artificial Intelligence and AI-powered products**
+- 🛠️ Focused on writing clean code and solving practical problems
+- 🤝 Open to interesting projects and collaborations
 
 ---
 
-## 💻 Tech Stack
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Technologies & Tools
 
 ### Languages
 
@@ -49,7 +50,7 @@ I enjoy turning ideas into practical applications, solving problems, and learnin
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" alt="Frontend Technologies"/>
 </p>
 
 ### Backend & Databases
@@ -66,48 +67,68 @@ I enjoy turning ideas into practical applications, solving problems, and learnin
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Projects
+
+### 🤖 AtomAI
+Exploring AI-powered experiences and full stack application development.
+
+### 🌐 Web Development
+Building modern applications with a focus on practical solutions, usability and clean interfaces.
+
+<p>
+  <a href="https://github.com/ermohsin-afroz?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My-Repositories-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Explore Repositories"/>
+  </a>
+</p>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/ermohsin-afroz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ermohsin-afroz&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=E6E6E6&ring_color=00FF9C" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ermohsin-afroz&show_icons=true&hide_border=true&bg_color=161B22&title_color=00FF9C&icon_color=00FF9C&text_color=E6E6E6&ring_color=00FF9C" alt="GitHub Stats"/>
 </a><a href="https://github.com/ermohsin-afroz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermohsin-afroz&layout=compact&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=E6E6E6" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermohsin-afroz&layout=compact&hide_border=true&bg_color=161B22&title_color=00FF9C&text_color=E6E6E6" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ermohsin-afroz">
-  <img width="75%" src="https://streak-stats.demolab.com?user=ermohsin-afroz&hide_border=true&background=050505&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Contribution Streak"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=ermohsin-afroz&hide_border=true&background=161B22&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Contribution Streak"/>
 </a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ==================== CONNECT ==================== -->
 
 <div align="center">
 
-<a href="https://www.instagram.com/blade__786?obrf=bXZmZmM3Y3h1dm00">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/md-mohsin-afroz-1580522b4">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@erfactist?si=ozdn620dA8MUw83M">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" alt="YouTube"/>
-</a>
+## 🌐 Let's Connect
 
-<br/><br/>
+<p>
+  <a href="https://www.instagram.com/blade__786?obrf=bXZmZmM3Y3h1dm00">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="42" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-mohsin-afroz-1580522b4">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@erfactist?si=ozdn620dA8MUw83M">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" alt="YouTube"/>
+  </a>
+</p>
 
-<sub>BUILD WITH PURPOSE · STAY CURIOUS · KEEP SHIPPING</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:050505,50:00FF9C,100:050505" width="100%" alt="Footer Accent"/>
+<p>
+  <sub>BUILD WITH PURPOSE · KEEP LEARNING · KEEP CREATING</sub>
+</p>
 
 </div>
