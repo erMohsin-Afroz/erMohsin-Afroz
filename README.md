@@ -1,64 +1,78 @@
 <div align="center">
 
-<table>
-<tr>
-<td>
+<!-- PROFILE INTRO -->
 
-```yaml
-╭─ ABOUT ME ─────────────────────╮
-│                                │
-│  👨‍💻 Name     : Md Mohsin Afroz │
-│  🚀 Role     : Full Stack Dev   │
-│  🌍 Location : India            │
-│  ⚡ Project  : AtomAI            │
-│  🧠 Focus    : Web Dev + AI     │
-│  📚 Status   : Always Learning  │
-│                                │
-╰────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
+<h2>Hey there! 👋 I'm Md Mohsin Afroz</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00FF9C?style=for-the-badge&labelColor=050505" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/AI-ENTHUSIAST-00FF9C?style=for-the-badge&labelColor=050505" alt="AI Enthusiast"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-00FF9C?style=for-the-badge&labelColor=050505" alt="Open to Collaborations"/>
+  <b>Full Stack Developer</b> &nbsp;|&nbsp; <b>AI Enthusiast</b> &nbsp;|&nbsp; <b>Problem Solver</b>
 </p>
+
+<p>
+  Building modern web applications and exploring the world of AI.
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/ROLE-Full%20Stack-00FF9C?style=flat-square&labelColor=101418" alt="Role"/>
+      <br/><br/>
+      <b>💻 Developer</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/PROJECT-AtomAI-00FF9C?style=flat-square&labelColor=101418" alt="Project"/>
+      <br/><br/>
+      <b>🚀 AtomAI</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/FOCUS-Web%20%2B%20AI-00FF9C?style=flat-square&labelColor=101418" alt="Focus"/>
+      <br/><br/>
+      <b>🧠 Web + AI</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/STATUS-Learning-00FF9C?style=flat-square&labelColor=101418" alt="Status"/>
+      <br/><br/>
+      <b>📚 Always Learning</b>
+    </td>
+  </tr>
+</table>
+
+<p>📍 India &nbsp; • &nbsp; 🤝 Open to Collaboration</p>
 
 </div>
 
 ---
 
-### ⚡ WHAT I DO
+## ⚡ What I Do
 
-- ⚡ Building modern applications with clean, practical solutions.
+- 🚀 Building modern applications with clean, practical solutions.
 - 🧠 Exploring AI-powered products and full stack development.
 - 🛠️ Improving my development and problem-solving skills.
 - 🤝 Open to interesting projects and collaborations.
 
 ---
 
-### 💻 LANGUAGES
+## 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages"/>
 </p>
 
-### 🎨 FRONTEND
+## 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" alt="Frontend"/>
 </p>
 
-### ⚙️ BACKEND & DATABASES
+## ⚙️ Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,redis&theme=dark" alt="Backend and Databases"/>
 </p>
 
-### 🛠️ INFRASTRUCTURE & TOOLS
+## 🛠️ Infrastructure & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,postman&theme=dark" alt="Infrastructure and Tools"/>
@@ -68,7 +82,7 @@
 
 <div align="center">
 
-### 📊 GITHUB STATISTICS
+## 📊 GitHub Statistics
 
 <a href="https://github.com/ermohsin-afroz">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ermohsin-afroz&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=E6E6E6&ring_color=00FF9C" alt="GitHub Statistics"/>
@@ -88,24 +102,24 @@
 
 <div align="center">
 
-### 🌐 CONNECT WITH ME
+## 🌐 Connect With Me
 
 <p>
   <a href="https://www.instagram.com/blade__786?obrf=bXZmZmM3Y3h1dm00">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-mohsin-afroz-1580522b4">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://youtube.com/@erfactist?si=ozdn620dA8MUw83M">
-    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="48" height="48" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
-<p>
-  <sub>CONNECT · COLLABORATE · KEEP BUILDING</sub>
-</p>
+<br/>
+
+<sub>BUILD WITH PURPOSE · KEEP LEARNING · CREATE SOMETHING AMAZING</sub>
 
 </div>
