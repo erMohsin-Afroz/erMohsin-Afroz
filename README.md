@@ -99,32 +99,6 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ermohsin-afroz&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ermohsin-afroz&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Profile Trophies"/>
-
-</div>
-
----
-
-<!-- ===================== CONNECT WITH ME ===================== -->
-
 <div align="center">
 
 ## 🌐 Connect With Me
