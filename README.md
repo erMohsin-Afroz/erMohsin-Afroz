@@ -1,21 +1,38 @@
 <div align="center">
 
-<h2>👨‍💻 Md Mohsin Afroz</h2>
+<h1>👨‍💻 Md Mohsin Afroz</h1>
 
 <p>
-  <b>Full Stack Developer</b> &nbsp;•&nbsp; <b>AI Enthusiast</b>
+  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00FF9C?style=flat-square&labelColor=0B0F14" alt="Full Stack Developer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI-ENTHUSIAST-00FF9C?style=flat-square&labelColor=0B0F14" alt="AI Enthusiast"/>
 </p>
 
 <p>
-  📍 India &nbsp; • &nbsp; 🚀 AtomAI &nbsp; • &nbsp; 🧠 Web Development + AI
+  📍 <b>India</b>
+  &nbsp; <code>✦</code> &nbsp;
+  🚀 <b>AtomAI</b>
+  &nbsp; <code>✦</code> &nbsp;
+  🧠 <b>Web Development + AI</b>
 </p>
 
+<br/>
+
 <p>
-  ⚡ Building modern applications with clean, practical solutions.<br/>
-  🧠 Exploring AI-powered products and full stack development.<br/>
-  🛠️ Improving my development and problem-solving skills.<br/>
-  🤝 Open to interesting projects and collaborations.
+  ⚡ <b>Building modern applications</b> with clean, practical solutions.
+  <br/>
+  🧠 Exploring <b>AI-powered products</b> and full stack development.
+  <br/>
+  🛠️ Constantly improving development and problem-solving skills.
+  <br/>
+  🤝 Open to exciting projects and meaningful collaborations.
 </p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILD-00FF9C?style=flat-square&labelColor=0B0F14" alt="Build"/>
+<img src="https://img.shields.io/badge/INNOVATE-00FF9C?style=flat-square&labelColor=0B0F14" alt="Innovate"/>
+<img src="https://img.shields.io/badge/KEEP%20LEARNING-00FF9C?style=flat-square&labelColor=0B0F14" alt="Keep Learning"/>
 
 </div>
 
