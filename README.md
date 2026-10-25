@@ -1,26 +1,14 @@
-## `01` / WHO AM I?
-
-```text
-┌──────────────────────────────────────┐
-│  > whoami                            │
-│                                      │
-│  Name      : Md Mohsin Afroz         │
-│  Role      : Full Stack Developer    │
-│  Location  : India                   │
-│  Project   : AtomAI                  │
-│  Focus     : Web Development + AI    │
-│  Status    : Always Learning         │
-└──────────────────────────────────────┘
-```
+Name      : Md Mohsin Afroz 
+Role      : Full Stack Developer    
+Location  : India                   
+Project   : AtomAI                  
+Focus     : Web Development + AI  
+Status    : Always Learning  
 
 - ⚡ Building modern applications with clean, practical solutions.
 - 🧠 Exploring AI-powered products and full stack development.
 - 🛠️ Improving my development and problem-solving skills.
 - 🤝 Open to interesting projects and collaborations.
-
----
-
-## `02` / TECH ARSENAL
 
 **LANGUAGES**
 
@@ -45,10 +33,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,git,postman&theme=dark" alt="Infrastructure and tools"/>
 </p>
-
----
-
-## `03` / GITHUB ACTIVITY
 
 <div align="center">
 
