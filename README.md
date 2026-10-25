@@ -1,28 +1,3 @@
-<!-- ===================== ABOUT ME ===================== -->
-
-<div align="center">
-
-# 👾 Md Mohsin Afroz
-
-### `FULL STACK DEVELOPER` · 🇮🇳 INDIA
-
-<img src="https://img.shields.io/badge/BUILDING-AtomAI-00FF9C?style=flat-square&labelColor=050505" alt="Building AtomAI"/>
-
-<br/>
-
-*I turn ideas into products through code, creativity, and continuous learning.*
-
-<br/>
-
-<a href="mailto:mohsinafroz90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=flat-square&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
-<a href="https://instagram.com/blade_786"><img src="https://img.shields.io/badge/INSTAGRAM-050505?style=flat-square&logo=instagram&logoColor=00FF9C" alt="Instagram"/></a>
-<a href="https://www.youtube.com/c/erfactist"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=flat-square&logo=youtube&logoColor=00FF9C" alt="YouTube"/></a>
-<a href="https://github.com/ermohsin-afroz"><img src="https://img.shields.io/badge/GITHUB-050505?style=flat-square&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
-
-</div>
-
----
-
 ## `01` / WHO AM I?
 
 ```text
