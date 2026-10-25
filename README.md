@@ -6,10 +6,6 @@
 
 <h3>Full Stack Developer · AI Enthusiast</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ermohsin-afroz&style=flat-square&color=00FF9C&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
@@ -30,11 +26,11 @@
 
 Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern applications and exploring AI-powered products.
 
-- 🚀 Currently exploring and building **AtomAI**.
-- 💻 Interested in full stack web development.
-- 🧠 Exploring AI and practical software solutions.
-- 🛠️ Always improving my coding and problem-solving skills.
-- 🤝 Open to interesting projects and collaborations.
+- 🚀 Currently exploring and building **AtomAI**
+- 💻 Interested in full stack web development
+- 🧠 Exploring AI and practical software solutions
+- 🛠️ Always improving my coding and problem-solving skills
+- 🤝 Open to interesting projects and collaborations
 
 ---
 
@@ -64,7 +60,7 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 <div align="center">
 
 <a href="https://github.com/ermohsin-afroz">
-  <img src="https://img.shields.io/badge/PROJECT-AtomAI-00FF9C?style=for-the-badge&labelColor=101418&logo=github&logoColor=white" alt="AtomAI Project"/>
+  <img src="https://img.shields.io/badge/PROJECT-AtomAI-CDD6E0?style=for-the-badge&labelColor=171B22&logo=github&logoColor=CDD6E0" alt="AtomAI Project"/>
 </a>
 
 <p><b>AtomAI</b></p>
@@ -74,7 +70,7 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 </p>
 
 <a href="https://github.com/ermohsin-afroz?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY-REPOSITORIES-00FF9C?style=flat-square&labelColor=101418&logo=github&logoColor=white" alt="Explore Repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY-REPOSITORIES-CBD5E1?style=for-the-badge&labelColor=171B22&logo=github&logoColor=CBD5E1" alt="Explore Repositories"/>
 </a>
 
 </div>
@@ -149,9 +145,9 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILD-00FF9C?style=flat-square&labelColor=101418" alt="Build"/>
-<img src="https://img.shields.io/badge/LEARN-00FF9C?style=flat-square&labelColor=101418" alt="Learn"/>
-<img src="https://img.shields.io/badge/INNOVATE-00FF9C?style=flat-square&labelColor=101418" alt="Innovate"/>
+<img src="https://img.shields.io/badge/BUILD-CDD6E0?style=for-the-badge&labelColor=171B22" alt="Build"/>
+<img src="https://img.shields.io/badge/LEARN-CDD6E0?style=for-the-badge&labelColor=171B22" alt="Learn"/>
+<img src="https://img.shields.io/badge/INNOVATE-CDD6E0?style=for-the-badge&labelColor=171B22" alt="Innovate"/>
 
 <br/><br/>
 
