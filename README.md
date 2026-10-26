@@ -49,7 +49,7 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 
 <div align="center">
 
-<a href="atom-ai-frontend.vercel.app">
+<a href="https://atom-ai-frontend.vercel.app">
   <img src="https://img.shields.io/badge/PROJECT-AtomAI-CDD6E0?style=for-the-badge&labelColor=171B22&logo=github&logoColor=CDD6E0" alt="AtomAI Project"/>
 </a>
 
