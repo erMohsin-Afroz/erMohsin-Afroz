@@ -1,5 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:07110D,50:064E3B,100:00FF9C&text=Hello,%20Everyone!%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=38&fontAlignY=55" width="100%" alt="Hello Everyone Banner"/>
@@ -10,8 +8,6 @@
 
 ---
 
-<!-- ===================== TECH ICONS ===================== -->
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,postgres,firebase,redis,html,css,tailwind,bootstrap,git,postman&theme=dark" alt="Technology Stack"/>
@@ -19,8 +15,6 @@
 </div>
 
 <br/>
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -33,8 +27,6 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 - 🤝 Open to interesting projects and collaborations
 
 ---
-
-<!-- ===================== WHAT I'M FOCUSED ON ===================== -->
 
 ## ⚡ What I'm Focused On
 
@@ -53,13 +45,11 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 
 ---
 
-<!-- ===================== FEATURED PROJECT ===================== -->
-
 ## 🚀 Featured Project
 
 <div align="center">
 
-<a href="https://github.com/ermohsin-afroz">
+<a href="atom-ai-frontend.vercel.app">
   <img src="https://img.shields.io/badge/PROJECT-AtomAI-CDD6E0?style=for-the-badge&labelColor=171B22&logo=github&logoColor=CDD6E0" alt="AtomAI Project"/>
 </a>
 
@@ -76,8 +66,6 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 </div>
 
 ---
-
-<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Statistics
 
