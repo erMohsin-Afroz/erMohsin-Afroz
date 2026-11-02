@@ -69,12 +69,15 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
 <a href="https://github.com/ermohsin-afroz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ermohsin-afroz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=E6E6E6&ring_color=00FF9C" alt="GitHub Statistics"/>
-</a><a href="https://github.com/ermohsin-afroz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermohsin-afroz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=E6E6E6" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=ermohsin-afroz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=E6E6E6&ring_color=00FF9C&cache_seconds=86400" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/ermohsin-afroz">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ermohsin-afroz&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=E6E6E6&cache_seconds=86400" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
