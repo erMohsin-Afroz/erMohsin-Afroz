@@ -69,8 +69,6 @@ Hey! I'm **Md Mohsin Afroz**, a developer from India who enjoys building modern 
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <a href="https://github.com/ermohsin-afroz">
